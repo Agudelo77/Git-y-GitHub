@@ -11,6 +11,7 @@ Un blog increíble para el curso de git y github
 * Las personalidades multiples de Fredy
 * Creado por Cristian
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 
 
 Y como un amable recordatorio este **Reademe.md es un chiste** diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve **a ver el curso.**
