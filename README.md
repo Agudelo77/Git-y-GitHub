@@ -9,5 +9,6 @@ Un blog increíble para el curso de git y github
 * El verdadero amor por las practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Fredy
+* Creado por Cristian
 
 Y como un amable recordatorio este **Reademe.md es un chiste** diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve **a ver el curso.**
