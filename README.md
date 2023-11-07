@@ -1,6 +1,6 @@
 # Hyperblog
-Un blog increíble para el curso de git y github
->El curso de git y github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintetica con Machine Learning
+Curso de git y github
+>El curso de git y github es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintetica con Machine Learning
 > - niñita
 
 ##En este curso vemos de todo
